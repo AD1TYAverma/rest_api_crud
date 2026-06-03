@@ -67,7 +67,7 @@ xampp/htdocs/
 ### 3. Create Database
 
 ```sql
-CREATE DATABASE api_db;
+CREATE DATABASE ajax_db;
 ```
 
 ### 4. Create Table
