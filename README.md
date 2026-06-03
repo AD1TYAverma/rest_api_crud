@@ -53,7 +53,7 @@ php-rest-api-crud/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/php-rest-api-crud.git
+git clone https://github.com/AD1TYAverma/php-rest-api-crud.git
 ```
 
 ### 2. Move Project
@@ -93,7 +93,7 @@ $con = mysqli_connect(
     "localhost",
     "root",
     "",
-    "api_db"
+    "ajax_db"
 );
 ```
 
